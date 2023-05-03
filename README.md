@@ -414,12 +414,12 @@ header('location: ../home');
 ## Output
 - Maka, hasilnya akan seperti gambar berikut.
 
-![Home](img/Home.PNG)
+![Home](img/Home.png)
 
-![Add_Data](img/Tambah.PNG)
+![Tambag](img/Tambah.png)
 
-![About](img/About.PNG)
+![About](img/About.png)
 
-![Contact](img/Contact.PNG)
+![Contact](img/Contact.png)
 
 # Terima Kasih!
