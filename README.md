@@ -10,15 +10,13 @@
 # Praktikum 6 (OOP Lanjutan)
 <p>Buat project baru dengan struktur sebagai berikut:</p>
 
-![Struktur](img/struktur1.png)
+![Struktur](img/lab6web.PNG)
 
 - Copy file library (class) dari praktikum 5 dan letakkan pada folder class.
 - Buat file template yang berisi template dan css untuk header, footer dan menu sidebar.
 - Buat modul artikel yang berisi CRUD dengan memanfaatkan library database dan form tersbut.
 - File index.php berisi proses routing aplikasi dan dikombinasikan dengan penggunaan mod_rewrite pada file .htaccess
-
-![Struktur](img/struktur2.png)
-
+# SELANJUTNYA
 - Pertama, buatlah index.php untuk menampung semua class dan template yang akan dibuat. Caranya masukan kode berikut.
 ```php
 <?php
@@ -416,12 +414,12 @@ header('location: ../home');
 ## Output
 - Maka, hasilnya akan seperti gambar berikut.
 
-![Home](img/home.jpg)
+![Home](img/Home.PNG)
 
-![Add_Data](img/tambah_data.jpg)
+![Add_Data](img/Tambah.PNG)
 
-![About](img/about.jpg)
+![About](img/About.PNG)
 
-![Contact](img/contact.jpg)
+![Contact](img/Contact.PNG)
 
 # Terima Kasih!
